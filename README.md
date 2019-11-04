@@ -1,3 +1,10 @@
+This old fork of fluidsynth used as sample android library ( aar) for convenience,
+no modification was made to the original degill fork of fluidsynth :
+ old readme is still valid for that fluidsynth part.
+
+I just added some JNI calls and removed the surrounding android app context to make an android library instead
+
+
 # fluidsynth-android-opensles
 This is a sample project which strives to use fluidsynth as a native android library with OpenSL ES support
 
